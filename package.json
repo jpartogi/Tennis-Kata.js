@@ -1,0 +1,17 @@
+{
+  "name": "tennis-kata.js",
+  "version": "1.0.0",
+  "description": "tennis kata refactoring",
+  "main": "./app/TennisGame.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Joshua Partogi",
+  "license": "ISC",
+  "devDependencies": {
+    "qunitjs": "^2.0.1"
+  }
+}
